@@ -1,4 +1,5 @@
 # Eagler Relay Server
+Made by lax1dude
 
 Simply run "java -jar EaglerSPRelay.jar"
 
